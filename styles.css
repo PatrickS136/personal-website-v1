@@ -1,0 +1,113 @@
+/* Color Palette
+#e8e8e8
+#f05454
+#30475e
+#222831 */
+
+/* General */
+body{
+    font-family: Montserrat,sans-serif;
+    background-color: #e8e8e8;
+}
+
+h2{
+    padding: 50px 0px;
+    font-size: 3rem;
+    font-weight: 1000;
+}
+
+footer{
+    text-align: center;
+}
+
+/* Navbar */
+#navbar{
+    background-color: #f05454;
+}
+
+.navbar-nav, .navbar-toggler{
+    margin-left: auto;
+    margin-right:30px;
+}
+
+.nav-item{
+    margin: 0px 30px;
+}
+
+/* Home */
+#home{
+    width:100%;
+    padding:150px 15% 250px;
+}
+
+.profpic{
+    width:250px;
+    height:250px;
+    border-style: solid;
+    border-width: 100%;
+    border-radius: 100%;
+    border-color: #f05454;
+}
+
+@media (max-width:1248px){
+    #home{
+        text-align: center;
+        margin:0px auto;
+    }
+}
+
+.intro{
+    margin:60px 0px 0px;
+}
+
+.introtext{
+
+    font-family: Sacramento, sans-serif;
+    font-size: 3.5rem;
+}
+
+.introdesc{
+    font-size:1.5rem;
+}
+
+/* About me */
+#aboutme{
+    text-align:center;
+    background-color: #f05454;
+    color:white;
+}
+
+.abouttext{
+    width:80%;
+    padding:0px 100px 100px;
+}
+
+/* Skills */
+#skills{
+    text-align:center;
+    padding-bottom: 20px;
+}
+
+.skilltable{
+    margin:20px auto 30px;
+    text-align: left;
+}
+
+.tabledata{
+    padding:5px 15px;
+}
+
+.tt{
+    width:24rem;
+    margin:20px auto;
+}
+
+/* Footer */
+.footer-link{
+    padding:100px auto;
+}
+
+.fab{
+    color: #f05454;
+    margin: 20px 10px;
+}
