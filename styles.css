@@ -54,6 +54,9 @@ footer{
         text-align: center;
         margin:0px auto;
     }
+    .single-skill{
+        display: block;
+    }
 }
 
 .intro{
