@@ -88,6 +88,11 @@ footer{
     padding:0px 100px 100px;
 }
 
+.personal{
+    text-decoration: underline;
+    color: white;
+}
+
 /* Skills */
 #skills{
     text-align:center;
