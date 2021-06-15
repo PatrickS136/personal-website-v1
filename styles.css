@@ -54,7 +54,10 @@ footer{
         text-align: center;
         margin:0px auto;
     }
-    .single-skill{
+    body{
+        text-align: center;
+    }
+    .tabledata{
         display: block;
     }
 }
@@ -93,7 +96,16 @@ footer{
 
 .skilltable{
     margin:20px auto 30px;
-    text-align: left;
+    /* text-align: left; */
+    width: 50%;
+}
+
+.skillcolumn{
+    margin: 10px 0px;
+}
+
+.tabledata{
+    padding:8px 20px;
 }
 
 .tabledata{
